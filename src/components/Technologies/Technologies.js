@@ -9,8 +9,8 @@ const Technologies = () =>  (
      <br />
      <SectionTitle>Technologies</SectionTitle>
      <SectionText>
-       I've worked with a wide range of technologies in the IT and Web development eco system.
-       Front and Backend, Smart Contracts and Dapps. 
+       I've worked with a wide range of technologies in the IT and Software development eco system.
+       Front and Backend, Smart Contracts, Defi and Dapps. 
      </SectionText>
      <List>
       <ListItem>
@@ -28,7 +28,7 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
-            MySQL, PHP, <br />
+            MySQL, PHP, Python, C# <br />
             Node.js, Mongo DB
           </ListParagraph>
         </ListContainer>
@@ -38,7 +38,7 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Block-Chain</ListTitle>
           <ListParagraph>
-            Solidity, Motoko, <br />
+            Solidity, IPFS, REMIX IDE, <br />
             Hardhat, Ganache 
           </ListParagraph>
         </ListContainer>

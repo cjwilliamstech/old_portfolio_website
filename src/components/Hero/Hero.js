@@ -12,9 +12,9 @@ const Hero = () => (
         My Portfolio Page
       </SectionTitle>
       <SectionText>
-        I'm an experianced technologist in IT, System Intergration and Web2-3.0 
+        I'm an experienced developer in IT, Software and Web3.0 
       </SectionText>
-      <Button onClick={() => window.location ='https://cjwilliamstech.com'}>Learn More</Button>
+      <Button onClick={() => window.location ='https://www.linkedin.com/in/cj-williams-987910226/'}>Learn More</Button>
     </LeftSection>
   </section>
  
